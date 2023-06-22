@@ -41,5 +41,4 @@ public class Good implements Rating {
     }
 }
 
-
 ```
