@@ -19,10 +19,13 @@ public class Employee {
     @Id
     @Column(name = "eid")
     private Integer empId;
+
     @Column(name = "ename")
     private String empName;
+
     @Column(name = "e_salary")
     private Double empSalary;
+
     @Column(name = "e_dept")
     private String empDepartment;
 }
